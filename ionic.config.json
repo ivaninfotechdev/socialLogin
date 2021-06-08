@@ -1,5 +1,7 @@
 {
   "name": "social-auth",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
